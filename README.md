@@ -1,25 +1,22 @@
 
 ---
 
-````
-# 📌 API de Listagem em Java com Spring Boot
+📌 API de Listagem em Java com Spring Boot
 
-Este projeto é uma **API simples de listagem** desenvolvida com **Java + Spring Boot**, criada para estudos e prática de desenvolvimento de aplicações RESTful.
+Este projeto é uma API simples de listagem desenvolvida com Java + Spring Boot,
+criada para estudos e prática de desenvolvimento de aplicações RESTful.
 
----
 
-## 🚀 Tecnologias Utilizadas
-- **Java 17+**
-- **Spring Boot**
+🚀 Tecnologias Utilizadas
+- Java 17+
+- Spring Boot
   - Spring Web
   - Spring Test
-- **Maven** (gerenciador de dependências)
-- **IntelliJ IDEA** (IDE utilizada no desenvolvimento)
+- Maven (gerenciador de dependências)
+- IntelliJ IDEA (IDE utilizada no desenvolvimento)
 
----
 
-## 📂 Estrutura do Projeto
-```bash
+📂 Estrutura do Projeto
 .
 ├── src
 │   ├── main
@@ -30,8 +27,6 @@ Este projeto é uma **API simples de listagem** desenvolvida com **Java + Spring
 │   └── test/java/Varias/apis/demo              # Testes unitários e de integração
 ├── pom.xml                                     # Dependências Maven
 └── README.md                                   # Documentação do projeto
-
-````
 
 ---
 
@@ -128,7 +123,6 @@ Esse projeto tem como objetivo servir de **material de aprendizado**, praticando
 Este projeto foi desenvolvido apenas para estudos e **não possui licença comercial**.
 Sinta-se à vontade para clonar, modificar e estudar! 🚀
 
-```
 
 ---
 
